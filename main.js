@@ -44,7 +44,7 @@ const newPara = document.createElement("p");
 
 const exercise3 = document.getElementById("exercise3");
 const N1 = document.getElementById("N1");
-newPara.textContent = "New Child Node"
+newPara.textContent = "New Child Node" 
 setTimeout(() => exercise3.replaceChild(newPara, N1), 3000);
 
 // TODO: Remove the "New Child Node"

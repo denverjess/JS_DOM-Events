@@ -54,15 +54,21 @@ z-index: 10;
 
 /*--------------- EXERCISE 3 STYLES ---------------- */
 .exercise3 {
-  text-align: center;
+  text-align: center; 
   margin: 5px;
   border-radius: 25px;
   border: 2px solid #bfbfbf;
   padding: 20px;
   width: auto;
   height: auto;
+  
 }
 
+#N1 {
+  color: rgb(255, 68, 131);
+}
+
+/*--------------- EXERCISE 4 STYLES ---------------- */
 #container {
   width: 200px;
   height: 200px;
@@ -86,7 +92,7 @@ z-index: 10;
 
 }
 
-/*--------------- EXERCISE 4 STYLES ---------------- */
+
 .exercise4 {
   text-align: center;
   margin: 5px;
